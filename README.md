@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Pedro Henrique Mendonça  
 
-🎓 Estudante de **Ciência da Computação** – 2º semestre  
-💻 Trabalho com **Suporte Técnico**  
+🎓 Estudante de **Ciência da Computação** – 3º semestre  
+💻 Trabalho com **Visão computacional e IA**  
 🚀 Explorando o mundo da programação e tecnologia  
 
 ---
